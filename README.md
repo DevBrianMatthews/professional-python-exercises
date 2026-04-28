@@ -34,11 +34,11 @@ easy/
 
 ## 📊 Difficulty Levels
 
-| Level | Description |
-|-------|-------------|
-| `easy` | Core Python, basic logic, single functions |
-| `medium` | OOP, error handling, data structures |
-| `hard` | Algorithms, testing, system design |
+| Level        | Description                                            |
+| ------------ | ------------------------------------------------------ |
+| `easy`       | Core Python, basic logic, single functions             |
+| `medium`     | OOP, error handling, data structures                   |
+| `hard`       | Algorithms, testing, system design                     |
 | `super-hard` | Complex architecture, optimization, real-world systems |
 
 ---
@@ -46,9 +46,11 @@ easy/
 ## ✅ Challenges
 
 ### Easy
-| # | Challenge | Topics |
-|---|-----------|--------|
-| E01 | [Password Validator](./easy/E01-password-validator/challenge.md) | strings, `any()`, type hints |
+
+| #   | Challenge                                                        | Topics                           |
+| --- | ---------------------------------------------------------------- | -------------------------------- |
+| E01 | [Password Validator](./easy/E01-password-validator/challenge.md) | strings, `any()`, type hints     |
+| E02 | [Tip Calculator](./easy/E02-calculate_tip/challenge.md)          | `dict`, `ValueError`, type hints |
 
 ---
 
