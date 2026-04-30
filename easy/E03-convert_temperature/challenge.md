@@ -1,6 +1,6 @@
 # E03 — Temperature Converter
 
-**Difficulty:** Easy  
+**Difficulty:** Easy
 **Topics:** `dict`, `lambda`, dispatch table, `ValueError`, type hints, input validation
 
 ---
