@@ -29,8 +29,7 @@ def generate_password(length: int = 12, uppercase: bool = True, digits: bool = T
         pool += simbols
 
     while length > len(password):
-        pool_random = random.choice(pool)
-        password.append(pool_random)
+        password.append(random.choice(pool))
 
     random.shuffle(password)
     text = ''.join(password)
