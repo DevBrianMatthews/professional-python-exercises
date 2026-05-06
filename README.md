@@ -47,11 +47,12 @@ easy/
 
 ### Easy
 
-| #   | Challenge                                                            | Topics                                         |
-| --- | -------------------------------------------------------------------- | ---------------------------------------------- |
-| E01 | [Password Validator](./easy/E01-password-validator/challenge.md)     | strings, `any()`, type hints                   |
-| E02 | [Tip Calculator](./easy/E02-calculate_tip/challenge.md)              | `dict`, `ValueError`, type hints               |
-| E03 | [Temperature Converter](./easy/E03-convert_temperature/challenge.md) | `dict`, `lambda`, dispatch table, `ValueError` |
+| #   | Challenge                                                              | Topics                                                      |
+| --- | ---------------------------------------------------------------------- | ----------------------------------------------------------- |
+| E01 | [Password Validator](./easy/E01-password-validator/challenge.md)       | strings, `any()`, type hints                                |
+| E02 | [Tip Calculator](./easy/E02-tip-calculator/challenge.md)               | `dict`, `ValueError`, type hints                            |
+| E03 | [Temperature Converter](./easy/E03-temperature-converter/challenge.md) | `dict`, `lambda`, dispatch table, `ValueError`              |
+| E04 | [Password Generator](./easy/E04-password-generator/challenge.md)       | `random`, `string`, `choice()`, `shuffle()`, default params |
 
 ---
 
