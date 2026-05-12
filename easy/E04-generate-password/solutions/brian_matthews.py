@@ -36,4 +36,4 @@ def generate_password(length: int = 12, uppercase: bool = True, digits: bool = T
 
     return text
 
-print(generate_password(8, True, True, True))
+print(generate_password())
