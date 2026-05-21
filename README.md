@@ -54,6 +54,7 @@ easy/
 | E03 | [Temperature Converter](./easy/E03-convert_temperature/challenge.md) | `dict`, `lambda`, dispatch table, `ValueError`              |
 | E04 | [Password Generator](./easy/E04-generate-password/challenge.md)      | `random`, `string`, `choice()`, `shuffle()`, default params |
 | E05 | [Text Analyzer](./easy/E05-analyze-text/challenge.md)                | `string`, `translate()`, `maketrans()`, `dict`, `max()`     |
+| E06 | [Discount Calculator](./easy/E06-calculate_discount/challenge.md)    | arithmetic, `round()`, `ValueError`, default params         |
 
 ---
 
