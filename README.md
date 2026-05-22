@@ -47,14 +47,15 @@ easy/
 
 ### Easy
 
-| #   | Challenge                                                            | Topics                                                      |
-| --- | -------------------------------------------------------------------- | ----------------------------------------------------------- |
-| E01 | [Password Validator](./easy/E01-password-validator/challenge.md)     | strings, `any()`, type hints                                |
-| E02 | [Tip Calculator](./easy/E02-calculate_tip/challenge.md)              | `dict`, `ValueError`, type hints                            |
-| E03 | [Temperature Converter](./easy/E03-convert_temperature/challenge.md) | `dict`, `lambda`, dispatch table, `ValueError`              |
-| E04 | [Password Generator](./easy/E04-generate-password/challenge.md)      | `random`, `string`, `choice()`, `shuffle()`, default params |
-| E05 | [Text Analyzer](./easy/E05-analyze-text/challenge.md)                | `string`, `translate()`, `maketrans()`, `dict`, `max()`     |
-| E06 | [Discount Calculator](./easy/E06-calculate_discount/challenge.md)    | arithmetic, `round()`, `ValueError`, default params         |
+| #   | Challenge                                                            | Topics                                                               |
+| --- | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| E01 | [Password Validator](./easy/E01-password-validator/challenge.md)     | strings, `any()`, type hints                                         |
+| E02 | [Tip Calculator](./easy/E02-calculate_tip/challenge.md)              | `dict`, `ValueError`, type hints                                     |
+| E03 | [Temperature Converter](./easy/E03-convert_temperature/challenge.md) | `dict`, `lambda`, dispatch table, `ValueError`                       |
+| E04 | [Password Generator](./easy/E04-generate-password/challenge.md)      | `random`, `string`, `choice()`, `shuffle()`, default params          |
+| E05 | [Text Analyzer](./easy/E05-analyze-text/challenge.md)                | `string`, `translate()`, `maketrans()`, `dict`, `max()`              |
+| E06 | [Discount Calculator](./easy/E06-calculate_discount/challenge.md)    | arithmetic, `round()`, `ValueError`, default params                  |
+| E07 | [Credit Card Validator](./easy/E07-validate_card/challenge.md)       | Luhn algorithm, `isdecimal()`, list comprehensions, nested functions |
 
 ---
 
