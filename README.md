@@ -56,6 +56,7 @@ easy/
 | E05 | [Text Analyzer](./easy/E05-analyze-text/challenge.md)                | `string`, `translate()`, `maketrans()`, `dict`, `max()`              |
 | E06 | [Discount Calculator](./easy/E06-calculate_discount/challenge.md)    | arithmetic, `round()`, `ValueError`, default params                  |
 | E07 | [Credit Card Validator](./easy/E07-validate_card/challenge.md)       | Luhn algorithm, `isdecimal()`, list comprehensions, nested functions |
+| E08 | [Slug Generator](./easy/E08-generate_slug/challenge.md)              | `re.sub()`, `maketrans()`, `translate()`, string manipulation        |
 
 ---
 
