@@ -58,6 +58,7 @@ easy/
 | E07 | [Credit Card Validator](./easy/E07-validate_card/challenge.md)       | Luhn algorithm, `isdecimal()`, list comprehensions, nested functions |
 | E08 | [Slug Generator](./easy/E08-generate_slug/challenge.md)              | `re.sub()`, `maketrans()`, `translate()`, string manipulation        |
 | E09 | [Roman Number Converter](./easy/E09-to-roman/challenge.md)           | `dict`, `reversed()`, nested loops, mapping tables                   |
+| E10 | [BMI Calculator](./easy/E10-calculate_bmi/challenge.md)              | `dict`, `lambda`, dispatch table, range matching, default params     |
 
 ---
 
